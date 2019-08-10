@@ -1,0 +1,2463 @@
+# Translation of Themes - Pixova Lite in French (France)
+# This file is distributed under the same license as the Themes - Pixova Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 16:23:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Pixova Lite\n"
+
+#. Description of the plugin/theme
+msgid "A modern design with clean lines and styling for a wide variety of content, exactly how a business design should be. Pixova is a one-page parallax theme, with excellent built-in functionality. You can add as many images as you want to the main header area, turn them into slider. Theme includes animations (can be turned off), a custom pre-loader (can be turned off) and has been optimized for loading speed."
+msgstr "Un design moderne avec des lignes épurées et du style pour une grande variété de contenu, exactement comment une conception opérationnelle devrait être. Pixova est un thème parallaxe en une page, avec d&rsquo;excellentes fonctionnalités intégrées. Vous pouvez ajouter autant d&rsquo;images que vous souhaitez pour la zone d&rsquo;en-tête principal, transformez-les en diaporamaa. Le thème comprend des animations (peut être désactivée), un préchargeur personnalisé (peut être désactivé) et a été optimisé pour la vitesse de chargement."
+
+#. #-#-#-#-#  pixova-lite.pot (Pixova Lite 1.47.5)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: footer.php:151
+msgid "Pixova Lite"
+msgstr "Pixova Lite"
+
+#: inc/customizer.php:2730 inc/customizer.php:2744
+msgid "Number of post per slide"
+msgstr "Nombre d&rsquo;article par panneau"
+
+#: inc/customizer.php:2722
+msgid "2"
+msgstr "2"
+
+#: inc/customizer.php:2713
+msgid "Button Text"
+msgstr "Texte de bouton"
+
+#: sections/section-intro.php:7
+msgid "Your cool business headline here. You can even <u><strong>insert HTML here & images</strong></u>.<br> Lorem ipsum dolor sit amet lorem dolor sit amet."
+msgstr "Votre gros titre ici. Vous pouvez même <u><strong>insérer des images et du HTML ici</strong></u>.<br> Lorem ipsum dolor sit amet lorem dolor sit amet."
+
+#: inc/extras.php:507
+msgid "and set your front page to display a page."
+msgstr "et définissez votre page d&rsquo;accueil pour afficher une page."
+
+#: inc/extras.php:506
+msgid "Settings > Readings"
+msgstr "Réglages > Lecture"
+
+#: inc/extras.php:505
+msgid "Some changes were made in the latest version so that the theme would properly work with core WordPress' front page system.  If you'd like to continue using the custom front page, visit"
+msgstr "Quelques modifications ont été apportées dans la version la plus récente pour que le thème fonctionne correctement avec WordPress. Si vous souhaitez continuer à utiliser la page d&rsquo;accueil personnalisée, visitez"
+
+#: inc/customizer.php:3384
+msgid "Theme Support"
+msgstr "Support du thème"
+
+#: inc/customizer.php:1309
+msgid "Enable what we do section?"
+msgstr "Activer la section Ce que nous faisons&nbsp;?"
+
+#: inc/customizer.php:1291
+msgid "Show what we do section ?"
+msgstr "Afficher la section Ce que nous faisons&nbsp;?"
+
+#: inc/customizer.php:1215 sections/section-intro.php:8
+msgid "CONTACT US"
+msgstr "Nous Contacter"
+
+#: inc/customizer.php:1175
+msgid "Change the button border color from here."
+msgstr "Changez la couleur de bordure du bouton ici."
+
+#: inc/customizer.php:1174
+msgid "Button border color "
+msgstr "Couleur de bord de bouton"
+
+#: inc/customizer.php:1128 sections/section-intro.php:13
+msgid "LEARN MORE"
+msgstr "En savoir plus"
+
+#: inc/customizer.php:1119
+msgid "Outline Button"
+msgstr "Contour de bouton"
+
+#: inc/customizer.php:1099
+msgid "Your cool business headline here. You can even <u><strong>insert HTML here & images</strong></u>.<br> Lorem ipsum dolor sit amet lorem dolor sit amet."
+msgstr "Votre gros titre ici. Vous pouvez même <u><strong>insérer des images et du HTML ici</strong></u>.<br> Lorem ipsum dolor sit amet lorem dolor sit amet."
+
+#: inc/customizer.php:1081 sections/section-intro.php:6
+msgid "Free & Modern One-Page Parallax WordPress Theme"
+msgstr "Thème WordPress Parallax en une page gratuit et moderne"
+
+#: inc/customizer.php:1071
+msgid "Main CTA title"
+msgstr "Titre de CTA principal"
+
+#: inc/customizer.php:1063 sections/section-intro.php:5
+msgid "WELCOME TO PIXOVA LITE"
+msgstr "Bienvenue dans PIXOVA Lite !"
+
+#: inc/customizer.php:661
+msgid "Enter Archive(Blog) Page Description"
+msgstr "Entrez la description de page d&rsquo;archive (blog)"
+
+#: inc/customizer.php:653 sections/section-header-archive.php:5
+msgid "Maecenas eget nisl vitae nunc molestie elementum non id urna."
+msgstr "Maecenas eget nisl vitae nunc molestie elementum non id urna."
+
+#: inc/customizer.php:644
+msgid "Enter Archive(Blog) Page Title"
+msgstr "Entrez le titre de page d&rsquo;archive (blog)"
+
+#: inc/customizer.php:636 sections/section-header-archive.php:4
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/admin/welcome-screen/welcome-screen.php:217
+msgid "Free VS PRO"
+msgstr "Version gratuite VS Pro"
+
+#: inc/admin/welcome-screen/welcome-screen.php:216
+msgid "Changelog"
+msgstr "Journal"
+
+#: inc/admin/welcome-screen/welcome-screen.php:215
+msgid "Contribute"
+msgstr "Contribuer"
+
+#: inc/admin/welcome-screen/welcome-screen.php:211
+msgid "Actions required"
+msgstr "Actions nécessaires"
+
+#: inc/admin/welcome-screen/welcome-screen.php:142
+msgid "View Theme Info"
+msgstr "Voir les informations du thème"
+
+#: inc/admin/welcome-screen/welcome-screen.php:67
+msgid "Get started with Pixova Lite"
+msgstr "Commencez avec Pixova Lite"
+
+#: inc/admin/welcome-screen/welcome-screen.php:66
+msgid "Welcome! Thank you for choosing Pixova Lite! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Bienvenue&nbsp;! Merci d'avoir choisi Pixova Lite&nbsp;! Pour profiter pleinement de ce que notre meilleur thème peut offrir assurez vous de visiter notre %spage de bienvenue%s."
+
+#: inc/admin/welcome-screen/sections/github.php:38
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr "Notez notre thème sur %sWordPress.org%s. Nous apprécierions beaucoup !"
+
+#: inc/admin/welcome-screen/sections/github.php:36
+msgid "Are you enjoying Pixova Lite?"
+msgstr "Aimez vous Pixova Lire&nbsp;?"
+
+#: inc/admin/welcome-screen/sections/github.php:27
+msgid "Get involved at WordPress.org."
+msgstr "Impliquez vous sur WordPress.org."
+
+#: inc/admin/welcome-screen/sections/github.php:25
+msgid "Are you a polyglot? Want to translate Pixova Lite into your own language?"
+msgstr "Vous êtes polyglotte&nbsp;? Vous voulez traduire Pixova Lite dans votre propre langue&nbsp;?"
+
+#: inc/admin/welcome-screen/sections/github.php:19
+msgid "Pixova Lite on GitHub"
+msgstr "Pixova Lite sur GitHub"
+
+#: inc/admin/welcome-screen/sections/github.php:16
+msgid "GitHub is the place to go!"
+msgstr "GitHub est l'endroit où aller !"
+
+#: inc/admin/welcome-screen/sections/github.php:14
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Vous avez trouvé une erreur ? Vous voulez contribuer avec un correctif ou créer une nouvelle fonctionnalité ?"
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr "Comment puis-je contribuer ?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:148
+msgid "Read full documentation"
+msgstr "Lire la documentation"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:147
+msgid "Need more details? Please check our full documentation for detailed information on how to use Pixova Lite."
+msgstr "Besoin de plus de détails&nbsp;? Lisez notre documentation pour des informations détaillées sur l'utilisation de Pixova Lite."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:146
+msgid "View full documentation"
+msgstr "Voir la documentation"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:115
+msgid "Pixova Lite has three page templates available, two for the blog and one for full width pages. To make sure you take full advantage of those page templates, make sure you read the documentation."
+msgstr "Pixova lite possède trois modèles de page, deux pour le blog et une pour les pages en pleine largeur. Pour tirer parti pleinement de ces modèles de pages, veuillez lire la documentation ci-dessous."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:114
+msgid "Change the page template"
+msgstr "Changer le modèle de page"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:101
+msgid "Linking the frontpage sections with the top menu is very simple, all you need to do is assign section anchors to the menu. In the below documentation you will find a nice tutorial about this."
+msgstr "Lier les sections de la page d'accueil avec le menu du haut est très simple, tout ce que vous avez besoin de faire est d'assigner les ancres de section au menu. Dans la documentation ci-dessous vous trouverez comment faire."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:100
+msgid "Link Menu to sections"
+msgstr "Lier le menu aux sections"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:56
+msgid "In the below documentation you will find an easy way to translate Pixova Lite into your native language or any other language you need for you site."
+msgstr "Dans la documentation ci-dessous vous trouverez une méthode facile pour traduire Pixova Lite dans votre propre langue ou dans toute autre besoin dont vous avez besoin pour votre site."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:55
+#: inc/admin/welcome-screen/sections/github.php:30
+msgid "Translate Pixova Lite"
+msgstr "Translate Pixova Lite"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:44
+#: inc/admin/welcome-screen/sections/getting-started.php:57
+#: inc/admin/welcome-screen/sections/getting-started.php:102
+#: inc/admin/welcome-screen/sections/getting-started.php:116
+msgid "View how to do this"
+msgstr "Comment faire ceci ?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:43
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Si vous voulez faire des changements dans les fichiers du thème, ces changements seront écrasés à la prochaine mise à jour du thème. Pour empêcher que cela n'arrive, vous devez créer un thème enfant. Pour cela, merci de suivre la documentation ci-dessous."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:42
+msgid "Create a child theme"
+msgstr "Créer un thème enfant"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:28
+msgid "Go to Customizer"
+msgstr "Aller à la personnalisation"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:27
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "En utilisant l'outil de personnalisation de WordPress vous pouvez facilement personnaliser chaque aspect du thème."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid "Customize everything in a single place."
+msgstr "Tout personnaliser en un seul endroit."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:24
+#: inc/admin/welcome-screen/welcome-screen.php:210
+msgid "Getting started"
+msgstr "Pour commencer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid "We want to make sure you have the best experience using Pixova Lite and that is why we gathered here all the necessary informations for you. We hope you will enjoy using Pixova Lite, as much as we enjoy creating great products."
+msgstr "Nous voulons nous assurer que vous ayez la meilleure expérience avec Pixova Lite et c'est pourquoi nous avons réunis ici pour vous toutes les informations nécessaires. Nous espérons que vous apprécierez Pixova Lite, autant que nous apprécions créer d'excellents produits."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:15
+msgid "Our most popular free one page WordPress theme, Pixova Lite!"
+msgstr "Notre thème WordPress gratuit le plus populaire en une page, Pixova Lite&nbsp;!"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:134
+msgid "Get Pixova PRO now!"
+msgstr "Obtenez Pixova PRO maintenant"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:126
+msgid "Remove \"Pixova Lite powered by WordPress\" copyright from the footer."
+msgstr "Retirer le copyright \"Pixova Lite propulsé par WordPress\" du pied de site."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:125
+msgid "No credit footer link"
+msgstr "Pas de lien de crédit dans le pied"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:118
+msgid "Write an original text in each Contact us section field."
+msgstr "Rédigez un texte original dans chaque champ de la section Nous contacter"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:117
+msgid "Change labels for the Contact Us section"
+msgstr "Changer les libellés pour la section Nous contacter"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:110
+msgid "Add pricing tables for your products and use newsletter forms to attract the clients."
+msgstr "Ajoutez des grilles de tarifs pour vos produits et utilisez la newsletter pour attirer les clients."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:109
+msgid "Packages/Subscribe sections"
+msgstr "Sections Packs / Abonnement"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:102
+msgid "You will benefit of our full support for any issues you have with the theme."
+msgstr "Vous bénéficierez d'un support complet pour toute problème avec notre thème."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:101
+msgid "Support"
+msgstr "Service et assistance"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:94
+msgid "Apart from static images, you can use videos or sliders on the background."
+msgstr "En plus des images statiques, vbous pouvez utiliser des vidéos ou des diaporamas comme fond."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:93
+msgid "Background slider/video"
+msgstr "Fond diaporama/vidéo"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:86
+msgid "Arrange the sections by your priorities."
+msgstr "Disposer les sections en fonction de vos priorités."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:85
+msgid "Sections order"
+msgstr "Ordre des sections"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:78
+msgid "Showcase your best projects in the portfolio section."
+msgstr "Mettez en valeur vos meilleurs projets dans la section portfolio."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:77
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:70
+msgid "Embed your current location to your website by using a Google map."
+msgstr "Insérer votre position actuelle dans votre site Web en utilisant une carte Google."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:69
+msgid "Google map section"
+msgstr "Section de Google map"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:62
+msgid "You can change the colors of each section. You have unlimited options."
+msgstr "Vous pouvez changer les couleurs de chaque section. Vous avez des options illimitées."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:61
+msgid "Unlimited color option"
+msgstr "Option de couleur illimitée"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:54
+msgid "You can use any background image you want."
+msgstr "Vous pouvez utiliser l'image de fond que vous désirez."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:53
+msgid "Background image"
+msgstr "Image de fond"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:46
+msgid "Big title, Our focus, About us, Our team, Testimonials, Ribbons, Latest news, Contat us"
+msgstr "Gros titre, notre objectif, à propos de nous, notre équipe, témoignages, rubans, nouveautés, nous contacter "
+
+#: inc/admin/welcome-screen/sections/free_pro.php:45
+msgid "Frontpage sections"
+msgstr "Sections de page d’accueil"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:38
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "Prêt pour l'e-commerce. Vous pouvez construire une boutique en ligne ici."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:37
+msgid "WooCommerce Compatible"
+msgstr "Compatible WooCommerce"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:30
+msgid "Responsive layout. Works on every device."
+msgstr "Mise en page responsive. Fonctionne sur tous les appareils."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:29
+msgid "Mobile friendly"
+msgstr "Optimisation mobile"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:22
+msgid "Smooth, catchy and easy scrolling experience."
+msgstr "Expérience d’un défilement doux, accrocheur et facile."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:21
+msgid "Parallax effect"
+msgstr "Effet Parallax"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:151
+msgid "Zerius - Current theme"
+msgstr "Zerius - Thème actuel"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:138
+msgid "Zerius"
+msgstr "Zerius"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:136
+msgid "Zerius Child Theme"
+msgstr "Zerius thème enfant"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:124
+msgid "ResponsiveBoat - Current theme"
+msgstr "ResponsiveBoat - Thème actuel"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:118
+msgid "Get %s now"
+msgstr "Obtenir %s maintenant"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:109
+#: inc/admin/welcome-screen/sections/child-themes.php:111
+msgid "ResponsiveBoat"
+msgstr "ResponsiveBoat"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:95
+msgid "Zifer Child - Current theme"
+msgstr "Zifer Child - Thème enfant"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:82
+msgid "Zifer"
+msgstr "Zifer"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:80
+msgid "Zifer Child Theme"
+msgstr "Zifer thème enfant"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:68
+msgid "OnePirate - Current theme"
+msgstr "OnePirate - Thème actuel"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:62
+#: inc/admin/welcome-screen/sections/child-themes.php:89
+#: inc/admin/welcome-screen/sections/child-themes.php:145
+msgid "Install %s now"
+msgstr "Installer %s maintenant"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:55
+msgid "OnePirate"
+msgstr "OnePirate"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:53
+msgid "OnePirate Child Theme"
+msgstr "Thème enfant OnePirate"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:41
+msgid "Zblackbeard - Current theme"
+msgstr "Zblackbeard - Thème actuel"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:35
+msgid "Get now"
+msgstr "Obtenir maintenant"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:28
+msgid "ZBlackBeard"
+msgstr "ZBlackBeard"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:26
+msgid "ZBlackBeard Child Theme"
+msgstr "Thème enfant ZBlackBeard"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:16
+msgid "Below you will find a selection of Pixova Lite child themes that will totally transform the look of your site."
+msgstr "Ci-dessous vous trouverez une sélection de thèmes enfants pour Pixova Lite qui transformeront totalement le style de votre site."
+
+#: inc/admin/welcome-screen/sections/child-themes.php:14
+msgid "Get a whole new look for your site"
+msgstr "Obtenez un superbe nouveau style pour votre site"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:60
+#: inc/admin/welcome-screen/welcome-screen.php:105
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Félicitations ! Il n'y a pas d'actions nécessaires pour l'instant."
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Actions recommend to make this theme look like in the demo."
+msgstr "Actions recommandées pour que ce site ressemble à la démo."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Souce Sans Pro Sans Serif, translate this to 'off'. Do not translate into
+#. your own language.
+#: functions.php:632
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro Sans Serif, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:624
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:200
+msgid "After installing the Pirate Forms plugin, please make sure you check your frontpage contact form is working fine. Also, if you use Pixova Lite in other language(s) please make sure the translation is ok. If not, please translate the contact form again."
+msgstr "Après avoir installé l'extension Pirate Forms, veuillez vérifier que le formulaire de contact de votre page d'accueil fonctionne correctement. Si vous utilisez Pixova Lire dans une autre langue, assurez vous que la traduction est correcte. Sinon, merci de traduire le formulaire de contact à nouveau."
+
+#: functions.php:199
+msgid "Check the contact form after installing Pirate Forms"
+msgstr "Vérifiez le formulaire de contact après l’installation de l’extension Pirate Forms"
+
+#: functions.php:185
+msgid "In the next updates, Pixova Lite's default contact form will be removed. Please make sure you install the Pirate Forms plugin to keep your site updated, and experience a smooth transition to the latest version."
+msgstr "Dans les prochaines mises à jour, le formulaire par défaut de Pixova Lite sera retiré. Veuillez installer l'extension Pirate Forms pour garder votre site à jour et expérimenter une douce transition vers la prochaine version."
+
+#: functions.php:184
+msgid "Install Pirate Forms"
+msgstr "Installation des formulaires Pirate"
+
+#: functions.php:179
+msgid "If you just installed Pixova Lite, and are not able to see the one page template, you need to go to Settings -> Reading , Front page displays and select \"Static Page\"."
+msgstr "Si vous venez d'installer Pixova Lite, et que vous n'êtes pas en mesure de voir le modèle une page, vous devez aller dans Réglages -> Lecture, La page d&rsquo;accueil affiche et sélectionnez Les derniers articles."
+
+#: functions.php:178
+msgid "Get the one page template"
+msgstr "Obtenez le modèle en une page"
+
+#. Translators: Category list separator.
+#: search.php:31
+msgid ", "
+msgstr ", "
+
+#. Translators: 1 is the post author, 2 is the category list.
+#: search.php:28
+msgid "<span class=\"post-meta-separator\">&middot</span>by %1$s<span class=\"post-meta-separator\">&middot</span>%2$s"
+msgstr "<span class=\"post-meta-separator\">&middot</span>par %1$s<span class=\"post-meta-separator\">&middot</span>%2$s"
+
+#: woocommerce.php:27 woocommerce.php:48
+msgid "Product Categories"
+msgstr "Catégories du produit"
+
+#: woocommerce.php:26 woocommerce.php:47
+msgid "WooCommerce Title"
+msgstr "Titre WooCommerce"
+
+#: sidebars/sidebars.php:66
+msgid "In WooCommerce, Shop Page."
+msgstr "Dans WooCommerce, page boutique."
+
+#: sidebars/sidebars.php:65
+msgid "[WooCommerce] Sidebar"
+msgstr "[WooCommerce] Barre"
+
+#: inc/customizer.php:3404
+msgid "Team member #5 E-mail Address"
+msgstr "E-mail de membre d&rsquo;équipe #5"
+
+#: inc/customizer.php:3308
+msgid "Team member #4 E-mail Address"
+msgstr "E-mail de membre d&rsquo;équipe #4"
+
+#: inc/customizer.php:3212
+msgid "Team member #3 E-mail Address"
+msgstr "E-mail de membre d&rsquo;équipe #3"
+
+#: inc/customizer.php:3018
+msgid "Team member #1 E-mail Address"
+msgstr "E-mail de membre d&rsquo;équipe #1"
+
+#: inc/customizer.php:938
+msgid "Right"
+msgstr "À droite"
+
+#: inc/customizer.php:937
+msgid "Left"
+msgstr "À gauche"
+
+#: inc/customizer.php:935
+msgid "Select where you want to show the sidebar on WooCommerce Shop Page."
+msgstr "Choisissez où vous voulez afficher la barre sur la page boutique WooCommerce."
+
+#: inc/customizer.php:934
+msgid "Show Sidebar on Left or Right side?"
+msgstr "Afficher la barre sur la gauche ou sur la droite&nbsp;?"
+
+#: inc/customizer.php:914
+msgid "Select to show or not to show the sidebar on WooCommerce Shop Page."
+msgstr "Choisir d&rsquo;afficher ou pas la barre sur la page boutique WooCommerce."
+
+#: inc/customizer.php:913
+msgid "Show sidebar on Shop Page?"
+msgstr "Afficher la barre sur la page boutique&nbsp;?"
+
+#: inc/customizer.php:895
+msgid "Add the custom description for WooCommerce pages."
+msgstr "Ajoute la description personnalisée pour les pages WooCommerce."
+
+#: inc/customizer.php:894
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer.php:888 sections/section-header-woocommerce.php:6
+msgid "We have the best products."
+msgstr "Nous avons les meilleurs produits."
+
+#: inc/customizer.php:878
+msgid "Add the custom title for WooCommerce pages."
+msgstr "Ajouter le titre personnalisé pour les pages WooCommerce."
+
+#: inc/customizer.php:877
+msgid "Title"
+msgstr "Titre&nbsp;:"
+
+#: inc/customizer.php:861
+msgid "Select custom header image for WooCommerce pages."
+msgstr "Définir une image d&rsquo;en-tête pour les pages WooCommerce."
+
+#: inc/customizer.php:860
+msgid "Header Image"
+msgstr "Image d&rsquo;entête"
+
+#: inc/customizer.php:843 inc/customizer.php:917
+msgid "Hide"
+msgstr "En cache"
+
+#: inc/customizer.php:842 inc/customizer.php:916
+msgid "Show"
+msgstr "&Eacute;mission"
+
+#: inc/customizer.php:840
+msgid "Select to show or not to show the header image on WooCommerce pages."
+msgstr "Choisissez d&rsquo;afficher ou pas l&rsquo;image d&rsquo;en-tête sur les pages WooCommerce."
+
+#: inc/customizer.php:839
+msgid "Show Header Image?"
+msgstr "Afficher l&rsquo;image d&rsquo;en-tête&nbsp;?"
+
+#: inc/customizer.php:823
+msgid "Control various for WooCommerce."
+msgstr "Contrôles variés pour WooCommerce."
+
+#: inc/customizer.php:822 inc/customizer.php:871
+#: sections/section-header-woocommerce.php:5
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: widgets/widget-social-icons.php:211
+msgid "Codepen profile URL:"
+msgstr "URL de profil Codepen&nbsp;:"
+
+#: widgets/widget-social-icons.php:206
+msgid "BitBucket profile URL:"
+msgstr "URL de profil BitBucket&nbsp;:"
+
+#: widgets/widget-social-icons.php:201
+msgid "GitHub profile URL:"
+msgstr "URL de profil GitHub&nbsp;:"
+
+#: widgets/widget-social-icons.php:94
+msgid "Codepen"
+msgstr "CodePen "
+
+#: widgets/widget-social-icons.php:90
+msgid "BitBucket"
+msgstr "BitBucket"
+
+#: widgets/widget-social-icons.php:86
+msgid "GitHub"
+msgstr "GitHub"
+
+#: widgets/widget-about-sm.php:83 widgets/widget-latest-posts.php:115
+#: widgets/widget-social-icons.php:152
+msgid "Show widget title?"
+msgstr "Afficher le titre de widget&nbsp;?"
+
+#: sidebars/sidebars.php:55
+msgid "In the footer, displayed as full width. Below the first 3 widgets."
+msgstr "Dans le pied, affiché en pleine largeur. Sous les 3 premiers wiidgets."
+
+#: sidebars/sidebars.php:54
+msgid "[Footer] Sidebar Full Width"
+msgstr "[Pied] Barre en pleine largeur"
+
+#: inc/extras.php:121
+msgid "http://docs.machothemes.com/category/106-pixova-lite"
+msgstr "http://docs.machothemes.com/category/106-pixova-lite"
+
+#: inc/customizer/pixova_lite_custom_control.php:17 inc/extras.php:118
+msgid "Get theme support"
+msgstr "Obtenez du support de thème"
+
+#: inc/extras.php:117
+msgid "http://www.machothemes.com/contact/"
+msgstr "http://www.machothemes.com/contact/"
+
+#: inc/extras.php:113
+msgid "http://www.machothemes.com/themes/pixova/"
+msgstr "http://www.machothemes.com/themes/pixova/"
+
+#: inc/customizer.php:3116
+msgid "Team member #2 Email"
+msgstr "E-mail de membre d&rsquo;équipe #2"
+
+#: inc/customizer.php:2658
+msgid "Section Options"
+msgstr "Options de section"
+
+#: inc/customizer.php:2609
+msgid "Working with Pixva has been an experience for a lifetime. I strongly  reccommend these guys for their awesome support. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer volutpat eleifend convallis."
+msgstr "Travailler avec Pixva a été une expérience pour toute une vie. Je recommande vivement ces gars pour leur soutien impressionnant. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer volutpat eleifend convallis."
+
+#: inc/customizer.php:1591 inc/customizer.php:1610
+msgid "This block accepts limited HTML. Accepted tags are: a, img, em, br & strong."
+msgstr "Ce bloc accepte du HTML limité. Balises acceptées&nbsp;:a, img, em, br & strong"
+
+#: inc/customizer.php:1195 inc/customizer.php:1282
+msgid "Change the button text color from here."
+msgstr "Changez la couleur de texte de bouton ici."
+
+#: inc/customizer.php:1194 inc/customizer.php:1281
+msgid "Button text color "
+msgstr "Couleur de texte du bouton"
+
+#: inc/customizer.php:1262
+msgid "Change the button background color from here."
+msgstr "Changez la couleur de fond du bouton ici."
+
+#: inc/customizer.php:1261
+msgid "Button background color "
+msgstr "Couleur de fond de bouton"
+
+#: inc/customizer.php:1156 inc/customizer.php:1243
+msgid "You can make this button link to a section on the homepage, by using the section id and a # in front of it"
+msgstr "Vous pouvez faire en sorte que ce bouton envoie vers une section de l&rsquo;accueil en utilisant l&rsquo;id de section et un #"
+
+#: inc/customizer.php:1137 inc/customizer.php:1224
+msgid "Text to be displayed on the button. Like BUY NOW or other Call To Action Text"
+msgstr "Texte à afficher sur lee bouton. Ex&nbsp;: Achetez maintenant ou tout autre texte."
+
+#: inc/customizer.php:1109
+msgid "Most often main call to actions work best with a sub call to action that emphasises the main CTA."
+msgstr "La plupart des principaux appel aux actions fonctionnent le mieux avec un sous appel à l'action qui met l'accent sur l&rsquo;appel à action principal."
+
+#: inc/customizer.php:1090
+msgid "This is your main attention grabber. Make the best of it."
+msgstr "Ceci est votre attireur d&rsquo;attention principal. Tirez en le meilleur parti."
+
+#: inc/customizer.php:717
+msgid "Show author box below posts?"
+msgstr "Afficher la boîte auteur sous les articles&nbsp;?"
+
+#: inc/customizer.php:700
+msgid "Show prev/next links below posts?"
+msgstr "Afficher les liens prec/suiv sous les articles&nbsp;?"
+
+#: inc/customizer.php:525
+msgid "Street Address will be displayed on the left of the contact form. Updates in real time."
+msgstr "L'adresse postale sera affichée sur la gauche du formulaire de contact. Mis à jour en temps réel."
+
+#: inc/customizer.php:506
+msgid "Phone number will be displayed on the left of the contact form. Updates in real time."
+msgstr "Le numéro de téléphone sera affiché sur la gauche du formulaire de contact. Mis à jour en temps réel."
+
+#: inc/customizer.php:487
+msgid "Email address will be displayed on the left of the contact form. Updates in real time."
+msgstr "L'adresse e-mail sera affichée sur la gauche du formulaire de contact. Mis à jour en temps réel."
+
+#: inc/customizer.php:306
+msgid "By disabling this field, the theme copyright text & links will be removed from the footer"
+msgstr "En désactivant ce champ, le texte et les liens de copyright seront retirés du pied."
+
+#: inc/customizer.php:305
+msgid "Display theme copyright in the footer?"
+msgstr "Activer le texte de copyright dans le pied&nbsp;?"
+
+#: inc/customizer.php:294
+msgid "Enable theme copyright message in the footer?"
+msgstr "Activer le message de copyright du pied&nbsp;?"
+
+#: inc/customizer.php:283
+msgid "Allowed image size: 250 x 50px"
+msgstr "Taille d&rsquo;image autorisée&nbsp;: 250 x 250 pixels"
+
+#: inc/customizer.php:2940 inc/customizer.php:3135 inc/customizer.php:3231
+#: sections/section-team.php:9 sections/section-team.php:40
+#: sections/section-team.php:56
+msgid "Angelina Doe"
+msgstr "Angelina Doe"
+
+#: inc/customizer.php:683
+msgid "Disabling this, will remove the related posts box at the end of posts"
+msgstr "En désactivant ceci, les articles similaires seront enlevés de la fin des articlees."
+
+#: inc/customizer.php:682
+msgid "Enable Related Posts Section?"
+msgstr "Activer la section d&rsquo;articles similaires&nbsp;?"
+
+#: sections/section-works.php:251 sections/section-works.php:255
+msgid "Recent Work 4"
+msgstr "Réalisation récente 4"
+
+#: sections/section-works.php:227 sections/section-works.php:231
+msgid "Recent Work 3"
+msgstr "Réalisation récente 3"
+
+#: sections/section-works.php:202 sections/section-works.php:206
+msgid "Recent Work 2"
+msgstr "Réalisation récente 2"
+
+#: sections/section-works.php:178 sections/section-works.php:182
+msgid "Recent Work 1"
+msgstr "Réalisation récente 1"
+
+#: searchform.php:6
+msgctxt "submit button"
+msgid "Search"
+msgstr "Recherche"
+
+#: searchform.php:3 searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#: inc/customizer.php:1459
+msgid "fa fa-envelope"
+msgstr "fa fa-envelope"
+
+#: inc/customizer.php:1394
+msgid "fa fa-development"
+msgstr "fa fa-development"
+
+#: inc/customizer.php:1338 inc/customizer.php:1403 inc/customizer.php:1468
+msgid "Specify icon name"
+msgstr "Spécifiez le nom d&rsquo;icône"
+
+#: inc/customizer.php:1329
+msgid "fa fa-droplet"
+msgstr "fa fa-droplet"
+
+#: inc/customizer.php:1320 inc/customizer.php:1385 inc/customizer.php:1450
+msgid "Use the controls below to change the way the what we do icons & text look."
+msgstr "Utilisez lels contrôles ci-dessous pour changer ce que font les icônes et le look du texte"
+
+#: inc/customizer.php:810
+msgid "Carousel pagination controls?"
+msgstr "Contrôles de pagination de carrousel&nbsp;?"
+
+#: inc/customizer.php:754
+msgid "Carousel related posts date?"
+msgstr "Date des articles similairesde carrousel&nbsp;?"
+
+#: inc/customizer.php:626
+msgid "Header image on blog?"
+msgstr "Image d&rsquo;en-tête sur le blog&nbsp;?"
+
+#: inc/customizer.php:606
+msgid "Blog Settings"
+msgstr "Paramètres du blog"
+
+#: footer.php:155
+msgid " by "
+msgstr " par"
+
+#: footer.php:155
+msgid "Made with"
+msgstr "Fait avec"
+
+#: footer.php:151
+msgid "Free One Page Parallax WordPress Theme"
+msgstr "Thème WordPress Parallax en une page gratuit et moderne"
+
+#: inc/customizer.php:2842
+msgid "Select the type of Contact Form to show (Contact Form 7 or Pirate Forms)"
+msgstr "Choix du type de formulaire de contact à afficher (Contact Form 7 ou Pirate Forms)"
+
+#: inc/customizer.php:2820 inc/customizer.php:2828
+msgid "Pirate Forms"
+msgstr "Pirate Forms"
+
+#: inc/customizer.php:2819 inc/customizer.php:2824
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/customizer.php:811
+msgid "Will be displayed as navigation bullets"
+msgstr "Sera affiché comme des bulles de navigation"
+
+#: inc/customizer.php:787
+msgid "No more than 4 posts at once;"
+msgstr "Pas plus de 4 articles à la fois;"
+
+#: inc/customizer.php:786
+msgid "How many blog posts to display in the carousel at once?"
+msgstr "Combien d&rsquo;articles de blog afficher en même temps dans le carrousel&nbsp;?"
+
+#: inc/customizer.php:771
+msgid "Autoplay related carousel?"
+msgstr "Lecture auto de carrousel&nbsp;?"
+
+#: inc/customizer.php:738
+msgid "Posts title in the carousel ?"
+msgstr "Afficher le titre des articles dans le carrousel&nbsp;?"
+
+#: inc/customizer.php:607
+msgid "Control various post settings from here. For a demo-like experience, we recommend you don't change these settings."
+msgstr "Contrôlez des réglages variés des articles similaires ici. Nous vous recommandons de ne pas changer ces réglages."
+
+#: inc/customizer.php:282
+msgid "Upload company logo"
+msgstr "Envoi de logo de l&rsquo;entreprise"
+
+#: inc/components/related-posts/class.mt-related-posts.php:158
+msgid "Related posts: "
+msgstr "Articles similaires&nbsp;:"
+
+#: inc/customizer.php:1025
+msgid "Enter Slide #1 Image URL "
+msgstr "URL d&rsquo;image #1 de panneau"
+
+#: inc/customizer.php:1008
+msgid "Header Slider"
+msgstr "Diaporama d&rsquo;en-tête"
+
+#: inc/customizer.php:454
+msgid "Disabling this, will remove the header parallax text fade-out effect."
+msgstr "Désactiver ceci va retier l&rsquo;effet d&rsquo;estompement du texte d&rsquo;en-tête parallax"
+
+#: inc/customizer.php:453
+msgid "Enable Parallax Header Fade-out Effect ?"
+msgstr "Active l'effet Parallax d&rsquo;estompement d&rsquo;en-tête"
+
+#: comments.php:14
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+#: inc/custom-controls.php:237 inc/custom-controls.php:260
+#: inc/custom-controls.php:283 inc/custom-controls.php:330 inc/extras.php:114
+msgid "View PRO version"
+msgstr "Voir la Version Pro"
+
+#: inc/customizer.php:431
+msgid "Disabling this will mean that when there is no featured image set, you will not have a placeholder."
+msgstr "Désactiver ceci signifie que quand il n&rsquo;y a pas d&rsquo;image mise en avant définie, il n&rsquo;y aura pas de remplacement."
+
+#: inc/customizer.php:430
+msgid "Enable default blog images ?"
+msgstr "Activer les images de blog par défaut&nbsp;?"
+
+#: inc/customizer.php:343
+msgid "Remove what we do section?"
+msgstr "Retirer la section Ce que nous faisons&nbsp;?"
+
+#: inc/customizer.php:334
+msgid "Remove this section."
+msgstr "Retirer cette section"
+
+#: inc/customizer.php:37
+msgid "Company name in text format below"
+msgstr "Nom de l&rsquo;entreprise en format texte ci-dessous"
+
+#: inc/customizer.php:980
+msgid "Enter YouTube video URL "
+msgstr "Entrez l&rsquo;URL de la vidéo YouTube"
+
+#: inc/customizer.php:963
+msgid "Header Video"
+msgstr "Vidéo d&rsquo;en-tête"
+
+#: inc/customizer.php:596
+msgid "Show the post category in the breadcrumb ?"
+msgstr "Afficher la catégorie d&rsquo;article dans le fil d&rsquo;ariane&nbsp;?"
+
+#: inc/customizer.php:595
+msgid "Show post category ?"
+msgstr "Afficher la catégorie&nbsp;?"
+
+#: inc/customizer.php:579
+msgid "Select from predefined separators"
+msgstr "Sélectionner un des séparateurs prédéfinis"
+
+#: inc/customizer.php:578
+msgid "Separator to be used between breadcrumb items"
+msgstr "Séparateur utilisé entre les éléments du fil d&rsquo;Ariane"
+
+#: inc/customizer.php:556
+msgid "Recommended: You are here"
+msgstr "Recommandé&nbsp;: Vous êtes ici"
+
+#: inc/customizer.php:555
+msgid "Text before the breadcrumbs menu"
+msgstr "Texte avant le menu du fil d'Ariane."
+
+#: inc/customizer.php:549
+msgid "You are here"
+msgstr "Vous êtes ici"
+
+#: inc/customizer.php:539
+msgid "Various breadcrumb related settings, like: breadcrumb prefix, breadcrumb item separator & breadcrumb menu post category visibility setting."
+msgstr "Différents réglages relatifs au fil d&rsquo;Ariane&nbsp;: préfixe, séparateur d&rsquo;élément et visibilité de la catégorie"
+
+#: inc/customizer.php:538
+msgid "Breadcrumbs"
+msgstr "Fils d'Ariane"
+
+#: inc/customizer.php:409
+msgid "This will disable the breadcrumbs"
+msgstr "Ceci va désactiver les fils d&rsquo;Ariane"
+
+#: inc/customizer.php:408
+msgid "Breadcrumbs on single blog posts"
+msgstr "Fils d&rsquo;Ariane sur les articles de blog"
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:80
+msgid "404 - Page not Found"
+msgstr "404 - Page non trouvée"
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:79
+msgid "Search:"
+msgstr "Recherche:"
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:78
+msgid "Tag:"
+msgstr "Mot-clé:"
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:77
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:531
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/components/breadcrumbs/class.mt-breadcrumbs.php:73
+msgid "You Are Here"
+msgstr "Vous êtes ici&nbsp;"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:42
+#: inc/admin/welcome-screen/sections/child-themes.php:69
+#: inc/admin/welcome-screen/sections/child-themes.php:96
+#: inc/admin/welcome-screen/sections/child-themes.php:125
+#: inc/admin/welcome-screen/sections/child-themes.php:152
+msgid "Customize"
+msgstr "Personnaliser"
+
+#: inc/customizer.php:386
+msgid "Enable Section Animations ?"
+msgstr "Activer les animations de secttion&nbsp;?"
+
+#: inc/customizer.php:325
+msgid "This is your copyright message. Will be displayed in the footer"
+msgstr "ceci est votre message de copyright qui sera affiché dans le pied."
+
+#: inc/customizer.php:388
+msgid "When scrolling, elements are coming into view with a slide-in animation. By disabling this setting, the swooshing of elements will be canceled."
+msgstr "Durant le défilement, les éléments viennent avec une animation. En désactivant ce réglage cela sera annulé."
+
+#: inc/admin/welcome-screen/sections/child-themes.php:36
+#: inc/admin/welcome-screen/sections/child-themes.php:63
+#: inc/admin/welcome-screen/sections/child-themes.php:90
+#: inc/admin/welcome-screen/sections/child-themes.php:119
+#: inc/admin/welcome-screen/sections/child-themes.php:146
+msgid "Live Preview"
+msgstr "Prévisualisation en direct"
+
+#. Template Name of the plugin/theme
+msgid "Blog Template"
+msgstr "Modèle blog"
+
+#: inc/customizer.php:363 inc/customizer.php:384 inc/customizer.php:406
+#: inc/customizer.php:428 inc/customizer.php:451 inc/customizer.php:680
+msgid "Disabled"
+msgstr "Désactivé "
+
+#: inc/customizer.php:367
+msgid "Enable the LOADING message that is displayed when pages are loading ?"
+msgstr "Activer le message de CHARGEMENT qui sera affiché au chargement des pages&nbsp;?"
+
+#: inc/customizer.php:365
+msgid "Enable Preloader ?"
+msgstr "Activer le préchargement&nbsp;?"
+
+#: inc/customizer.php:1054
+msgid "CTA Text"
+msgstr "Texte de CTA"
+
+#: inc/customizer.php:1522
+msgid "Pie Chart Section"
+msgstr "Section de graphiques"
+
+#: footer.php:7 inc/customizer.php:316
+msgid "Copyright 20"
+msgstr "Copyright 20"
+
+#: footer.php:151
+msgid "Theme:"
+msgstr "Thème&nbsp;:"
+
+#: inc/customizer.php:133
+msgid "Display the Pie Chart section ?"
+msgstr "Afficher la section de graphiques&nbsp;?"
+
+#: footer.php:7 inc/customizer.php:316
+msgid ". All Rights Reserved"
+msgstr ". Tous Droits Réservés."
+
+#: inc/customizer.php:362 inc/customizer.php:383 inc/customizer.php:405
+#: inc/customizer.php:427 inc/customizer.php:450 inc/customizer.php:679
+msgid "Enabled"
+msgstr "Activé"
+
+#: widgets/widget-social-icons.php:166
+msgid "Twitter profile URL:"
+msgstr "URL de profil Twitter&nbsp;:"
+
+#: widgets/widget-social-icons.php:161
+msgid "Facebook profile URL:"
+msgstr "URL du profil Facebook&nbsp;:"
+
+#: widgets/widget-social-icons.php:171
+msgid "Google Plus profile URL:"
+msgstr "URL de profil Google Plus&nbsp;:"
+
+#: widgets/widget-social-icons.php:176
+msgid "Pinterest profile URL:"
+msgstr "URL du profil Pinterest&nbsp;:"
+
+#: widgets/widget-social-icons.php:181
+msgid "YouTube profile URL:"
+msgstr "URL de profil Youtube&nbsp;:"
+
+#: widgets/widget-social-icons.php:186
+msgid "Dribbble profile URL:"
+msgstr "URL de profil Dribble&nbsp;:"
+
+#: widgets/widget-social-icons.php:191
+msgid "Tumblr profile URL:"
+msgstr "URL du profil Tumblr&nbsp;:"
+
+#: widgets/widget-social-icons.php:196
+msgid "Instagram profile URL:"
+msgstr "URL du profil Instagram&nbsp;:"
+
+#. Template Name of the plugin/theme
+msgid "Page with sidebar on the left"
+msgstr "Page avec la barre sur la gauche"
+
+#. Template Name of the plugin/theme
+msgid "Page with sidebar on the right"
+msgstr "Barre avec la barre sur la droite"
+
+#: widgets/widget-social-icons.php:82
+msgid "Instagram"
+msgstr "Instagram"
+
+#: widgets/widget-social-icons.php:74
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: widgets/widget-social-icons.php:78
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: widgets/widget-social-icons.php:66
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: widgets/widget-social-icons.php:70
+msgid "YouTube"
+msgstr "YouTube"
+
+#: widgets/widget-social-icons.php:62
+msgid "Google+"
+msgstr "Google+"
+
+#: widgets/widget-social-icons.php:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/widget-latest-posts.php:10
+msgid "A widget that displays popular posts from blog"
+msgstr "Un widget qui affiche les articles populaires du blog"
+
+#: widgets/widget-latest-posts.php:19
+msgid "[MT] - Latest Posts"
+msgstr "[MT] - Articles récents"
+
+#: widgets/widget-latest-posts.php:124
+msgid "How many post to show:"
+msgstr "Combien d&rsquo;articles afficher&nbsp;:"
+
+#: widgets/widget-social-icons.php:10
+msgid "A widget that displays social media icons designed for blog sidebar"
+msgstr "Un widget qui affiche les icônes de réseaux sociaux, pour la barre de blog"
+
+#: widgets/widget-social-icons.php:16
+msgid "[MT] - Social Media"
+msgstr "[MT] - Profils sociaux"
+
+#: widgets/widget-social-icons.php:54
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:2705
+msgid "Visit our blog"
+msgstr "Visitez notre Blog"
+
+#: sections/section-testimonials.php:6
+msgid "We don not like to brag, others do it for us."
+msgstr "Nous  n&rsquo;aimons pas nous vanter, d&rsquo;autres le font pour nous."
+
+#: sections/section-testimonials.php:9 sections/section-testimonials.php:22
+#: sections/section-testimonials.php:34 sections/section-testimonials.php:47
+#: sections/section-testimonials.php:60
+msgid "Katie Parry - Aviato"
+msgstr "Katie Parry - Aviato"
+
+#: sections/section-testimonials.php:10 sections/section-testimonials.php:23
+#: sections/section-testimonials.php:35 sections/section-testimonials.php:48
+#: sections/section-testimonials.php:61
+msgid "Working with Pixova has been the experience of a lifetime. I strongly recommend these guys for their amazing support. Lorem ipsum dolor sit amet lorem ipsum."
+msgstr "Travailler avec Pixova a été l'expérience d'une vie. Je recommande vivement ces gars pour leur soutien incroyable. Lorem ipsum dolor sit amet lorem ipsum."
+
+#: sections/section-testimonials.php:211 sections/section-testimonials.php:269
+#: sections/section-testimonials.php:327 sections/section-testimonials.php:385
+#: sections/section-testimonials.php:443
+msgid "Please enter testimonial text"
+msgstr "Merci d'entrer le texte de témoignage"
+
+#: sections/section-testimonials.php:219 sections/section-testimonials.php:277
+#: sections/section-testimonials.php:335 sections/section-testimonials.php:393
+#: sections/section-testimonials.php:451
+msgid "Please enter testimonial person name."
+msgstr "Entrez le nom de l'auteur de ce témoignage."
+
+#: sections/section-works.php:6
+msgid "Show and tell time"
+msgstr "Show and tell time"
+
+#: sections/section-works.php:188 sections/section-works.php:212
+#: sections/section-works.php:237 sections/section-works.php:261
+msgid "See project"
+msgstr "Voir le projet"
+
+#: sidebars/sidebars.php:14
+msgid "[Blog] Sidebar #1"
+msgstr "[Blog] Barre #1"
+
+#: sidebars/sidebars.php:15
+msgid "In blog archive, right side"
+msgstr "Dans l&rsquo;archive de blog, côté droit"
+
+#: sidebars/sidebars.php:24
+msgid "[Footer] Sidebar #1"
+msgstr "[Pied] Barre #1"
+
+#: sidebars/sidebars.php:25
+msgid "In the footer, first column"
+msgstr "Dans le pied, 1ère colonne"
+
+#: sidebars/sidebars.php:34
+msgid "[Footer] Sidebar #2"
+msgstr "[Pied] Barre #2"
+
+#: sidebars/sidebars.php:35
+msgid "In the footer, 2nd column"
+msgstr "Dans le pied, 2nde colonne"
+
+#: sidebars/sidebars.php:44
+msgid "[Footer] Sidebar #3"
+msgstr "[Pied] Barre #3"
+
+#: sidebars/sidebars.php:45
+msgid "In the footer, 3rd column"
+msgstr "Dans le pied, 3ème colonne"
+
+#: widgets/widget-about-sm.php:10
+msgid "A widget that displays about text & social media counts. Designed for footer"
+msgstr "Un widget qui affiche le texte à propos et le nombre de réseaux sociaux. Pour le pied."
+
+#: widgets/widget-about-sm.php:19
+msgid "[MT] - About"
+msgstr "[MT] - À propos"
+
+#: widgets/widget-about-sm.php:87 widgets/widget-latest-posts.php:119
+#: widgets/widget-social-icons.php:156
+msgid "Title:"
+msgstr "Titre :"
+
+#: sections/section-intro.php:87
+msgid "What We Do"
+msgstr "Ce que nous faisons"
+
+#: inc/extras.php:416
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: sections/section-header-archive.php:75
+msgid "Posts tagged with: %s"
+msgstr "Articles avec l&rsquo;étiquette&nbsp; %s"
+
+#: sections/section-header-archive.php:80
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour&nbsp;: %s"
+
+#: sections/section-about.php:6
+msgid "This is what we do in a nutshell."
+msgstr "Ce que nous faisons en quelques mots."
+
+#: sections/section-about.php:20
+msgid "Web Design"
+msgstr "Web Design"
+
+#: sections/section-about.php:26
+msgid "Print Design"
+msgstr "Print Design"
+
+#: sections/section-about.php:32
+msgid "Graphic Identity"
+msgstr "Identité graphique"
+
+#: sections/section-contact.php:21
+msgid "Street 221B Baker Street, London, UK"
+msgstr "Street 221B Baker Street, London, UK"
+
+#: sections/section-contact.php:51
+msgid "Customer Support"
+msgstr "Support client"
+
+#: sections/section-contact.php:53
+msgid "Phone: "
+msgstr "Téléphone : "
+
+#: sections/section-contact.php:56
+msgid "Email: "
+msgstr "Email"
+
+#: inc/plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installé."
+
+#: inc/plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#: inc/plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Démarrage de l'installation. Cela, selon l'hôte, peut prendre un certain temps. Patienter...."
+
+#: inc/plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Toutes les instalations et activations ont été effectuées."
+
+#: inc/plugin-activation.php:3370 inc/plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Cacher les détails"
+
+#: inc/plugin-activation.php:3370 inc/plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: inc/plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Démarrage de l'installation et de l'activation de l'extension. Son déroulement, selon l'hôte, peut prendre un certain temps. Patienter..."
+
+#: inc/plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installé et activé."
+
+#: inc/plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur est apparue lors de l'installation de: %1$s: <strong>%2$s</strong>."
+
+#: inc/plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: inc/plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l&rsquo;extension %1$s (%2$d/%3$d)"
+
+#: inc/plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune mise à jour n'est disponible pour les extensions pour le moment."
+
+#: inc/plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Pas d'extensions disponibles pour être installées en ce moment."
+
+#: inc/plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension n'a été sélectionnée pour activation. Aucune action ne sera effectuée."
+
+#: inc/plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "Pas d'extensions disponibles pour être activées en ce moment."
+
+#: inc/plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "L'activation de l'extension a échoué."
+
+#: inc/plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Aucune extension n'a été sélectionnée pour être installée. Aucune action ne sera effectuée."
+
+#: inc/plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Aucune extension n'a été sélectionnée pour être mise à jour. Aucune action ne sera effectuée. "
+
+#: inc/plugin-activation.php:2612
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/plugin-activation.php:2609
+msgid "Update"
+msgstr "Mise à jour"
+
+#: inc/plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: inc/plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#: inc/plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#: inc/plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à niveau de l&rsquo;auteur de l'extension&nbsp;:"
+
+#: inc/plugin-activation.php:2603
+msgid "Install"
+msgstr "Installer"
+
+#: inc/plugin-activation.php:2443
+msgid "Status"
+msgstr "Humeur du moment"
+
+#: inc/plugin-activation.php:2442
+msgid "Version"
+msgstr "Version"
+
+#: inc/plugin-activation.php:2438
+msgid "Type"
+msgstr "Type"
+
+#: inc/plugin-activation.php:2437
+msgid "Source"
+msgstr "Adresse web source"
+
+#: inc/plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "A activer <span class=\"count\">(%s)</span>"
+msgstr[1] "A activer <span class=\"count\">(%s)</span>"
+
+#: inc/plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnue"
+
+#: inc/plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: inc/plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Version minimale requise :"
+
+#: inc/plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: inc/plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Aucune extension à installer, mettre à jour ou à activer. <a href=\"%1$s\">Retour au Tableau de bord</a> "
+
+#: inc/plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Extension"
+
+#: inc/plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "A Installer <span class=\"count\">(%s)</span>"
+msgstr[1] "A Installer <span class=\"count\">(%s)</span>"
+
+#: inc/plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Prête à mettre à jour <span class=\"count\">(%s)</span>"
+msgstr[1] "Prêtes à mettre à jour <span class=\"count\">(%s)</span>"
+
+#: inc/plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Mise à jour nécessaires"
+
+#: inc/plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Mise à jour requise non disponible"
+
+#: inc/plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: inc/plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">%s</span>"
+msgstr[1] "Tous <span class=\"count\">%s</span>"
+
+#: inc/plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Installé(e) mais non activé(e)"
+
+#: inc/plugin-activation.php:2215
+msgid "Active"
+msgstr "Activé"
+
+#: inc/plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "Référentiel WordPresss"
+
+#: inc/plugin-activation.php:2189
+msgid "External Source"
+msgstr "Source externe"
+
+#: inc/plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Non installé(e)"
+
+#: inc/plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Pré-packagé"
+
+#: inc/plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Recommandé(e)"
+
+#: inc/plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Le paquet distant de l'extension ne contient pas de dossier avec l&rsquo;identifiant désiré et le renommage n'a pas fonctionné."
+
+#: inc/plugin-activation.php:935 inc/plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Veuillez contacter le fournisseur de l'extension et demandez-lui d'empaqueter son extension en respectant les instructions de WordPress."
+
+#: inc/plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Le paquet distant de l'extension contient plus d'un fichier, mais les fichiers ne sont pas empaquetés dans un dossier."
+
+#: inc/plugin-activation.php:1116 inc/plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: inc/plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/plugin-activation.php:2167
+msgid "Required"
+msgstr "Obligatoire"
+
+#: inc/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l'administrateur du site pour le support."
+
+#: inc/plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Omettre ce conseil."
+
+#: inc/plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Cette extension doit être mise à jour pour être compatible avec votre thème."
+
+#: inc/plugin-activation.php:521
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: inc/plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Réglez plutôt la variable de configuration parent_slug"
+
+#: inc/plugin-activation.php:828 inc/plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: inc/plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action effectuée. L'extension %1$s était déjà activée."
+
+#: inc/plugin-activation.php:400 inc/plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "L'extension suivante a bien été activée:"
+
+#: inc/plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Extension non activée. Une version plus récente de %s est requise pour ce thème. Merci de mettre à jour l&rsquo;extension."
+
+#: inc/plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont été installées et activées. %1$s"
+
+#: inc/extras.php:304
+msgid "Comments are off for this post."
+msgstr "Les commentaires sont fermés pour cet article."
+
+#: inc/plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Désolé, mais vous n'avez pas les permissions correctes pour installer l'extension %1$s."
+msgstr[1] "Désolé, mais vous n'avez pas les permissions correctes pour installer les extensions %1$s."
+
+#: inc/plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Une mise à jour est disponible pour&nbsp;: %1$s."
+msgstr[1] "Des mises à jour sont disponibles pour les extensions suivantes&nbsp;: %1$s."
+
+#: inc/plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Désolé, mais vous n'avez pas les droits nécessaires de mettre à jour l&rsquo;extension %1$s."
+msgstr[1] "Désolé, mais vous n'avez pas les droits necessaires de mettre à jour les extensions %1$s."
+
+#: inc/plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Désolé, mais vous ne disposez pas des autorisations nécessaires pour activer l&rsquo;extension %1$s."
+msgstr[1] "Désolé, mais vous ne disposez pas des autorisations nécessaires pour activer les extensions %1$s."
+
+#: inc/plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Retour au tableau de bord"
+
+#: inc/plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Démarrer la mise à jour de l'extension"
+msgstr[1] "Démarrer la mise à jour des extensions"
+
+#: inc/extras.php:298
+msgid " Comments"
+msgstr " commentaires"
+
+#: inc/extras.php:300
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: inc/extras.php:296
+msgid "No Comments"
+msgstr "Pas de commentaire"
+
+#: inc/extras.php:252
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/extras.php:247
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
+
+#: inc/extras.php:241
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/extras.php:240
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/extras.php:199
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/extras.php:198
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/extras.php:193 inc/extras.php:236
+msgid "Post navigation"
+msgstr "Navigation de l'article"
+
+#: inc/customizer.php:2880
+msgid "Team Section"
+msgstr "Section d&rsquo;équipe"
+
+#: inc/customizer.php:2913 sections/section-team.php:6
+msgid "Meet the people that made it all happen."
+msgstr "Rencontrez ceux qui ont rendus cela possible."
+
+#: inc/customizer.php:2948
+msgid "Team member #1 name"
+msgstr "Nom de membre d&rsquo;équipe #1"
+
+#: inc/customizer.php:2965
+msgid "Team member #1 image"
+msgstr "Image de membre d&rsquo;équipe #1"
+
+#: inc/customizer.php:2759
+msgid "Contact Section"
+msgstr "Section de contact"
+
+#: inc/customizer.php:2765
+msgid "Section titles"
+msgstr "Titres de section"
+
+#: inc/customizer.php:2776 sections/section-contact.php:17
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+#: inc/customizer.php:2794 sections/section-contact.php:18
+msgid "And we'll reply in no time"
+msgstr "Et nous répondons vite"
+
+#: inc/customizer.php:2810
+msgid "Contact forms"
+msgstr "Formulaires de contact"
+
+#: inc/customizer.php:2861
+msgid "Select the contact form you'd like to display (powered by Contact Form 7)"
+msgstr "Choisissez le formulaire de contact que vous voulez afficher (propulsé par Contact Fform 7)"
+
+#: inc/customizer.php:2895 sections/section-team.php:5
+msgid "The team"
+msgstr "L&rsquo;équipe"
+
+#: inc/customizer.php:2930
+msgid "Team member #1"
+msgstr "Membre d&rsquo;équipe #1"
+
+#: inc/customizer.php:2983
+msgid "Team member #1 Facebook URL"
+msgstr "URL Facebook du membre d&rsquo;équipe #1"
+
+#: inc/customizer.php:3000
+msgid "Team member #1 Dribbble URL"
+msgstr "URL Dribble du membre d&rsquo;équipe #1"
+
+#: inc/customizer.php:3029
+msgid "Team member #2"
+msgstr "Membre d&rsquo;équipe #2"
+
+#: inc/customizer.php:3047
+msgid "Team member #2 name"
+msgstr "Nom de membre d&rsquo;équipe #2"
+
+#: inc/customizer.php:3064
+msgid "Team member #2 image"
+msgstr "Image de membre d&rsquo;équipe #2"
+
+#: inc/customizer.php:3082
+msgid "Team member #2 Facebook URL"
+msgstr "URL Facebook du membre d&rsquo;équipe #2"
+
+#: inc/customizer.php:3099
+msgid "Team member #2 Dribbble URL"
+msgstr "URL Dribble du membre d&rsquo;équipe #2"
+
+#: inc/customizer.php:3125
+msgid "Team member #3"
+msgstr "Membre d&rsquo;équipe #3"
+
+#: inc/customizer.php:3143
+msgid "Team member #3 name"
+msgstr "Nom de membre d&rsquo;équipe #3"
+
+#: inc/customizer.php:3178
+msgid "Team member #3 Facebook URL"
+msgstr "URL Facebook du membre d&rsquo;équipe #3"
+
+#: inc/customizer.php:3160
+msgid "Team member #3 image"
+msgstr "Image de membre d&rsquo;équipe #3"
+
+#: inc/customizer.php:3195
+msgid "Team member #3 Dribbble URL"
+msgstr "URL Dribble du membre d&rsquo;équipe #3"
+
+#: inc/customizer.php:3221
+msgid "Team member #4"
+msgstr "Membre d&rsquo;équipe #4"
+
+#: inc/customizer.php:3239
+msgid "Team member #4 name"
+msgstr "Nom de membre d&rsquo;équipe #4"
+
+#: inc/customizer.php:3274
+msgid "Team member #4 Facebook URL"
+msgstr "URL Facebook du membre d&rsquo;équipe #4"
+
+#: inc/customizer.php:3256
+msgid "Team member #4 image"
+msgstr "Image de membre d&rsquo;équipe #4"
+
+#: inc/customizer.php:3291
+msgid "Team member #4 Dribbble URL"
+msgstr "URL Dribble du membre d&rsquo;équipe #4"
+
+#: inc/customizer.php:3317
+msgid "Team member #5"
+msgstr "Membre d&rsquo;équipe #5"
+
+#: inc/customizer.php:3335
+msgid "Team member #5 name"
+msgstr "Nom de membre d&rsquo;équipe #5"
+
+#: inc/customizer.php:3352
+msgid "Team member #5 image"
+msgstr "Image de membre d&rsquo;équipe #5"
+
+#: inc/customizer.php:3387
+msgid "Team member #5 Dribbble URL"
+msgstr "URL Dribble du membre d&rsquo;équipe #5"
+
+#: inc/customizer.php:3370
+msgid "Team member #5 Facebook URL"
+msgstr "URL Facebook du membre d&rsquo;équipe #5"
+
+#: inc/customizer.php:999 inc/customizer.php:1044
+msgid "Discover Pixova PRO"
+msgstr "Découvrez Pixova PRO"
+
+#: inc/extras.php:61
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:1996
+msgid "It's show and tell time."
+msgstr "It's show and tell time."
+
+#: inc/customizer.php:2313
+msgid "We don't like to brag, others do it for us."
+msgstr "Nous  n&rsquo;aimons pas nous vanter, d&rsquo;autres le font pour nous."
+
+#: inc/customizer.php:2338 inc/customizer.php:2465 inc/customizer.php:2528
+#: inc/customizer.php:2591
+msgid "Katie Parry - Hooli"
+msgstr "Katie Parry - Hooli"
+
+#: inc/customizer.php:2392
+msgid "Testimonial #2"
+msgstr "Témoignage #2"
+
+#: inc/customizer.php:1618
+msgid "Section Chart #1"
+msgstr "Section de graphique #1"
+
+#: inc/customizer.php:1635 inc/customizer.php:1721 inc/customizer.php:1805
+#: inc/customizer.php:1889
+msgid "Heading for chart"
+msgstr "En-tête pour les graphiques"
+
+#: inc/customizer.php:1654 inc/customizer.php:1740 inc/customizer.php:1824
+#: inc/customizer.php:1908
+msgid "Chart Percentage"
+msgstr "Pourcentage du graphique"
+
+#: inc/customizer.php:1673 inc/customizer.php:1759 inc/customizer.php:1843
+#: inc/customizer.php:1927
+msgid "Chart bar color"
+msgstr "Couleur de  barre de graphique"
+
+#: inc/customizer.php:1692 inc/customizer.php:1778 inc/customizer.php:1862
+#: inc/customizer.php:1946
+msgid "Chart Track color"
+msgstr "Couleur de piste de graphique"
+
+#: inc/customizer.php:1704
+msgid "Section Chart #2"
+msgstr "Section de graphique #2"
+
+#: inc/customizer.php:1714 sections/section-about.php:14
+msgid "Web development"
+msgstr "Développement Web"
+
+#: inc/customizer.php:1788
+msgid "Section Chart #3"
+msgstr "Section de graphique #3"
+
+#: inc/customizer.php:1882
+msgid "Graphic identity"
+msgstr "Charte graphique"
+
+#: inc/customizer.php:1872
+msgid "Section Chart #4"
+msgstr "Section de graphique #4"
+
+#: inc/customizer.php:1964
+msgid "Recent Works Section"
+msgstr "Section Réalisations récentes"
+
+#: inc/customizer.php:1978 sections/section-works.php:5
+msgid "Recent works"
+msgstr "Réalisations récentes"
+
+#: inc/customizer.php:2031 inc/customizer.php:2096 inc/customizer.php:2161
+#: inc/customizer.php:2226
+msgid "Project big image"
+msgstr "Grande Image de projet"
+
+#: inc/customizer.php:2013
+msgid "Project #1"
+msgstr "Projet #1"
+
+#: inc/customizer.php:2050 inc/customizer.php:2115 inc/customizer.php:2180
+#: inc/customizer.php:2245
+msgid "Project logo image"
+msgstr "Image de logo de projett"
+
+#: inc/customizer.php:2068 inc/customizer.php:2133 inc/customizer.php:2198
+#: inc/customizer.php:2263
+msgid "Project URL (enter project link here)"
+msgstr "URL de projet (entrez le lien du projet ici)"
+
+#: inc/customizer.php:2077
+msgid "Project #2"
+msgstr "Projet #2"
+
+#: inc/customizer.php:2142
+msgid "Project #3"
+msgstr "Projet #3"
+
+#: inc/customizer.php:2281
+msgid "Testimonials Section"
+msgstr "Section Témoignages"
+
+#: inc/customizer.php:2207
+msgid "Project #4"
+msgstr "Projet #4"
+
+#: inc/customizer.php:2295 sections/section-testimonials.php:5
+msgid "Some words from our clients"
+msgstr "Quelqques mots de nos clients"
+
+#: inc/customizer.php:2329
+msgid "Testimonial #1"
+msgstr "Témoignage #1"
+
+#: inc/customizer.php:2346 inc/customizer.php:2410 inc/customizer.php:2429
+#: inc/customizer.php:2473 inc/customizer.php:2536 inc/customizer.php:2599
+msgid "Testimonial person name"
+msgstr "Nom de personne de témoignage"
+
+#: inc/customizer.php:2356 inc/customizer.php:2420 inc/customizer.php:2483
+#: inc/customizer.php:2546
+msgid "Working with Pixova has been an experience for a lifetime. I strongly  reccommend these guys for their awesome support. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer volutpat eleifend convallis."
+msgstr "Travailler avec Pixova a été l'expérience d'une vie. Je recommande vivement ces gars pour leur soutien incroyable. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer volutpat eleifend convallis."
+
+#: inc/customizer.php:2365 inc/customizer.php:2492 inc/customizer.php:2555
+#: inc/customizer.php:2618
+msgid "Testimonial person description"
+msgstr "Description de personne du témoignage"
+
+#: inc/customizer.php:2383 inc/customizer.php:2447 inc/customizer.php:2510
+#: inc/customizer.php:2573 inc/customizer.php:2636
+msgid "Testimonial person image"
+msgstr "Image de personne de témoignage"
+
+#: inc/customizer.php:2402 inc/customizer.php:3039 sections/section-team.php:24
+msgid "John Doe"
+msgstr "John Doe"
+
+#: inc/customizer.php:2456
+msgid "Testimonial #3"
+msgstr "Témoignage #3"
+
+#: inc/customizer.php:2519
+msgid "Testimonial #4"
+msgstr "Témoignage #4"
+
+#: inc/customizer.php:2652
+msgid "Latest News Section"
+msgstr "Section des nouveautés"
+
+#: inc/customizer.php:2582
+msgid "Testimonial #5"
+msgstr "Témoignage #5"
+
+#: inc/customizer.php:2669 sections/section-news.php:5
+msgid "Latest news"
+msgstr "Dernières nouvelles"
+
+#: inc/customizer.php:2687 sections/section-news.php:6
+msgid "Straight from our blog"
+msgstr "En direct de notre blog"
+
+#: inc/customizer.php:1486
+msgid "What we do #3 title "
+msgstr "Titre Ce que nous faisons #13"
+
+#: inc/customizer.php:1089
+msgid "Main CTA text"
+msgstr "Texte de CTA principal"
+
+#: inc/customizer.php:1206
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/customizer.php:1108
+msgid "Main CTA sub-title "
+msgstr "Sous-titre de CTA principal"
+
+#: inc/customizer.php:1136 inc/customizer.php:1223
+msgid "Button text "
+msgstr "Texte de bouton"
+
+#: inc/customizer.php:1348 inc/customizer.php:1628
+#: sections/section-intro.php:17
+msgid "Web design"
+msgstr "Web design"
+
+#: inc/customizer.php:1319
+msgid "What we do #1"
+msgstr "Ce que nous faisons #1"
+
+#: inc/customizer.php:1155 inc/customizer.php:1242
+msgid "Button URL "
+msgstr "URL de bouton"
+
+#: inc/customizer.php:1356
+msgid "What we do #1 title "
+msgstr "Titre Ce que nous faisons #1"
+
+#: inc/customizer.php:1366 inc/customizer.php:1431 inc/customizer.php:1496
+#: sections/section-intro.php:18 sections/section-intro.php:20
+#: sections/section-intro.php:22
+msgid "Lorem ipsum dolor sit amet. Lorem ipsum."
+msgstr "Lorem ipsum dolor sit amet. Lorem ipsum."
+
+#: inc/customizer.php:1384
+msgid "What we do #2"
+msgstr "Ce que nous faisons #2"
+
+#: inc/customizer.php:1375
+msgid "What we do #1 description "
+msgstr "Description Ce que nous faisons #1"
+
+#: inc/customizer.php:1413 sections/section-intro.php:19
+msgid "Development"
+msgstr "Développement"
+
+#: inc/customizer.php:1421
+msgid "What we do #2 title "
+msgstr "Titre Ce que nous faisons #2"
+
+#: inc/customizer.php:1449
+msgid "What we do #3"
+msgstr "Ce que nous faisons #3"
+
+#: inc/customizer.php:1440
+msgid "What we do #2 description "
+msgstr "Description Ce que nous faisons #2"
+
+#: inc/customizer.php:1478 inc/customizer.php:1798
+#: sections/section-intro.php:21
+msgid "Print design"
+msgstr "Print design"
+
+#: inc/customizer.php:1505
+msgid "What we do #3 description "
+msgstr "Description Ce que nous faisons #3"
+
+#: inc/customizer.php:1527 inc/customizer.php:1969 inc/customizer.php:2286
+#: inc/customizer.php:2886
+msgid "Section Titles"
+msgstr "Titres de section"
+
+#: inc/customizer.php:1536 sections/section-about.php:5
+msgid "We build solutions for your everyday problems."
+msgstr "Nous trouvons au quotidien de solutions à vos problèmes."
+
+#: inc/customizer.php:1544 inc/customizer.php:1986 inc/customizer.php:2303
+#: inc/customizer.php:2677 inc/customizer.php:2784 inc/customizer.php:2903
+msgid "Section title"
+msgstr "Titre de Section"
+
+#: inc/customizer.php:1553
+msgid "This is what we do in a nutshell"
+msgstr "Ce que nous faisons en quelques mots."
+
+#: inc/customizer.php:1561 inc/customizer.php:2004 inc/customizer.php:2321
+#: inc/customizer.php:2695 inc/customizer.php:2802 inc/customizer.php:2921
+msgid "Section sub-title"
+msgstr "Sous-titre de section"
+
+#: inc/customizer.php:1571
+msgid "Section text"
+msgstr "Texte de section"
+
+#: inc/customizer.php:1581 sections/section-about.php:9
+msgid "Creative ut tincidunt nibh, varius cursus nunc. Curabitur molestie, metus vel luctus euismod, mi libero laoreet odio, eu dapibus leo tortor sit amet purus. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+msgstr "Creative ut tincidunt nibh, varius cursus nunc. Curabitur molestie, metus vel luctus euismod, mi libero laoreet odio, eu dapibus leo tortor sit amet purus. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+
+#: inc/customizer.php:1590
+msgid "Block of text"
+msgstr "Bloc de texte"
+
+#: inc/customizer.php:1600 sections/section-about.php:10
+msgid "Working with Pixova has been an experience for a lifetime. I strongly reccommend these guys for their awesome support. Erlich Bachman, Aviato"
+msgstr "Travailler avec Pixova a été l'expérience d'une vie. Je recommande vivement ces gars pour leur soutien incroyable. Erlich Bachman, Aviato"
+
+#: inc/customizer.php:1609
+msgid "Blockquote"
+msgstr "Bloc de citation"
+
+#: inc/customizer.php:956
+msgid "CTA Section (big bg. image)"
+msgstr "Section CTA (grosse image de fond)"
+
+#: inc/customizer.php:505
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+#: inc/customizer.php:516
+msgid "Street 221B Baker Street"
+msgstr "Street 221B Baker Street"
+
+#: inc/customizer.php:524 sections/section-contact.php:47
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/customizer.php:467
+msgid "Contact Details"
+msgstr "Détails de contact"
+
+#: inc/customizer.php:486
+msgid "Email"
+msgstr "Options de messagerie"
+
+#: inc/customizer.php:244
+msgid "General"
+msgstr "Options du compte"
+
+#: inc/custom-controls.php:209
+msgid "Select your contact form"
+msgstr "Choix de du formulaire de contact"
+
+#: inc/custom-controls.php:194
+msgid "No contact forms found"
+msgstr "Pas de formulaire de contact trouvé"
+
+#: inc/custom-controls.php:233
+msgid "In order to be able to change the section order, you need to upgrade to the PRO version."
+msgstr "Pour pouvoir changer l&rsquo;ordre de section, vous devez mettre à niveau vers la version PRO."
+
+#: inc/custom-controls.php:256
+msgid "In order to be able to add Google Maps, you need to upgrade to the PRO version."
+msgstr "Pour pouvoir ajouter des cartes Google, vous devez mettre à niveau vers la version PRO."
+
+#: inc/custom-controls.php:279
+msgid "In order to be able to add pricing tables, you need to upgrade to the PRO version."
+msgstr "Pour pouvoir ajouter des tarifs, vous devez mettre à niveau vers la version PRO."
+
+#: inc/custom-controls.php:305 inc/customizer/pixova_lite_custom_control.php:18
+#: inc/extras.php:122
+msgid "Theme Documentation"
+msgstr "Documentation du thème"
+
+#: inc/custom-controls.php:309
+msgid "By upgrading to the PRO version you are unlocking the full potential of Pixova. You will get: unlimited sliders / carousels, unlimited Google Maps, Unlimited Team Members, Section Ordering, Control over theme typography and colors. Upgrade NOW!"
+msgstr "En mettant à niveau vers la version PRO vous allez libérer pleinement le potentiel de ce thème. Vous obtiendrez&nbsp;: diaporamas/carrousels illimités, cartes Google, membres d'équipe illimités, ordre des sections, contrôle de la typographie et des couleurs. Mettez à niveau&nbsp;!"
+
+#: inc/custom-controls.php:351
+msgid "https://wordpress.org/support/view/theme-reviews/pixova-lite#postform/"
+msgstr "https://wordpress.org/support/view/theme-reviews/pixova-lite#postform/"
+
+#: inc/custom-controls.php:351
+msgid "Add a review"
+msgstr "Ajouter un commentaire"
+
+#: inc/customizer.php:70
+msgid "Pricing tables"
+msgstr "Grilles de tarifs"
+
+#: inc/customizer.php:50
+msgid "Section order"
+msgstr "Ordre de section"
+
+#: inc/customizer.php:90
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: inc/customizer.php:113
+msgid "Section visibility"
+msgstr "Visibilité de section"
+
+#: inc/customizer.php:150
+msgid "Display the works section ?"
+msgstr "Afficher la section réalisations&nbsp;?"
+
+#: inc/customizer.php:167
+msgid "Display the testimonials section ?"
+msgstr "Afficher la section de témoignages&nbsp;?"
+
+#: inc/customizer.php:184
+msgid "Display the team section ?"
+msgstr "Afficher la section équipe&nbsp;?"
+
+#: inc/customizer.php:201
+msgid "Display the news section ?"
+msgstr "Afficher la section nouveautés&nbsp;?"
+
+#: inc/customizer.php:234
+msgid "Theme options"
+msgstr "Options du thème"
+
+#: inc/customizer.php:218
+msgid "Display the contact section ?"
+msgstr "Afficher la section de contact&nbsp;?"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:640
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:648
+msgctxt "Add new subset (latin-extended, vietnamese)"
+msgid "no-subset"
+msgstr "pas de subset"
+
+#: inc/back-compatible.php:35 inc/back-compatible.php:48
+#: inc/back-compatible.php:65
+msgid "Pixova Lite requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Pixova Lite requiert au minimum WordPress 4.1. Vous utilisez la version %s. Mettez à jour et essayez à nouveau."
+
+#: footer.php:69 functions.php:573 functions.php:574
+msgid "Team"
+msgstr "Équipe"
+
+#: functions.php:593 functions.php:594
+msgid "Shop"
+msgstr "la boutique"
+
+#: functions.php:528
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Toutes les extensions sont installées et activées avec succès. %s"
+
+#: footer.php:65 functions.php:567 functions.php:568
+msgid "Testimonials"
+msgstr "T&eacute;moignages"
+
+#: footer.php:63 functions.php:561 functions.php:562
+msgid "Recent Works"
+msgstr "Réalisations récentes"
+
+#: functions.php:525 inc/plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer à activer le plugin"
+msgstr[1] "Commencer l'activation des plugins"
+
+#: functions.php:526 inc/plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l'installation des extensions requises."
+
+#: functions.php:527 inc/plugin-activation.php:399
+#: inc/plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "L'extension a bien été activée."
+
+#: functions.php:523
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Désolé, mais vous n'avez pas les permissions requises pour mettre à jour l'extension %s. Contactez l'administrateur du site pour obtenir de l'aide sur la mise à jour de cette extension."
+msgstr[1] "Désolé, mais vous n'avez pas les permissions requises pour mettre à jour les extensions %s. Contactez l'administrateur du site pour obtenir de l'aide sur la mise à jour des extensions."
+
+#: functions.php:524 inc/plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l'installation du plugin"
+msgstr[1] "Commencer l'installation de plugins"
+
+#: functions.php:522 inc/plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Le plugin suivant doit être mis à jour pour sa version la plus récente pour assurer une compatibilité maximale avec ce thème : %1$s."
+msgstr[1] "Les plugins suivants doivent être mis à jour vers leur dernière version afin d'assurer une compatibilité maximale avec ce thème : %1$s."
+
+#: functions.php:520 inc/plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin est actuellement inactive a recommandé ce qui suit : %1$s."
+msgstr[1] "Plugins sont actuellement inactifs a recommandé ce qui suit : %1$s."
+
+#: functions.php:521
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Désolé, mais vous n'avez pas les permissions requises pour activer l'extension %s. Contactez l'administrateur du site pour obtenir de l'aide sur l'activation de cette extension."
+msgstr[1] "Désolé, mais vous n'avez pas les permissions requises pour activer les extensions %s. Contactez l'administrateur du site pour obtenir de l'aide sur l'activation des extensions."
+
+#: functions.php:518
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Désolé, mais vous n'avez pas les permissions requises pour installer l'extension %s. Contactez l'administrateur du site pour obtenir de l'aide sur l'installation de cette extension."
+msgstr[1] "Désolé, mais vous n'avez pas les permissions requises pour installer les extensions %s. Contactez l'administrateur du site pour obtenir de l'aide sur l'installation des extensions."
+
+#: functions.php:517 inc/plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l'extension suivante : %1$s."
+msgstr[1] "Ce thème recommande les extensions suivantes : %1$s."
+
+#: functions.php:519 inc/plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Les attributs requis plugin est actuellement inactive : %1$s."
+msgstr[1] "Les attributs requis plugins sont actuellement inactifs : %1$s."
+
+#: functions.php:515 inc/plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur est apparue avec l'API de l'extension."
+
+#: functions.php:516 inc/plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant : %1$s."
+msgstr[1] "Ce thème nécessite les plugins suivants : %1$s."
+
+#: functions.php:514 inc/plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Extension en cours d&rsquo;installation&nbsp;: %s"
+
+#: functions.php:513 inc/plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Installer des extensions"
+
+#: functions.php:512 inc/plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#: functions.php:126
+msgid "Footer Menu"
+msgstr "Menu de bas de page"
+
+#: functions.php:125
+msgid "Header Menu"
+msgstr "Menu d'en-tête"
+
+#: footer.php:187
+msgid "Top"
+msgstr "Haut"
+
+#. #-#-#-#-#  pixova-lite.pot (Pixova Lite 1.47.5)  #-#-#-#-#
+#. Author of the plugin/theme
+#: footer.php:156
+msgid "Macho Themes"
+msgstr "Macho Themes"
+
+#: inc/customizer.php:324
+msgid "Copyright"
+msgstr "Copyright"
+
+#: footer.php:93
+msgid "Latest Posts"
+msgstr "Billets récents"
+
+#: footer.php:117
+msgid "Follow us"
+msgstr "Suivez nous"
+
+#: footer.php:37
+msgid "The many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected true of a humour"
+msgstr "Les nombreuses variantes des passages du Lorem Ipsum disponibles, mais la plupart ont subi une altération dans la forme, avec un peu d&rsquo;humour"
+
+#: footer.php:57
+msgid "Quick nav"
+msgstr "Nav rapide"
+
+#: footer.php:61 widgets/widget-about-sm.php:92
+msgid "About us"
+msgstr "Qui sommes-nous"
+
+#: footer.php:67 functions.php:579 functions.php:580
+msgid "News"
+msgstr "Actualités"
+
+#: footer.php:71 functions.php:585 functions.php:586
+msgid "Contact"
+msgstr "contact"
+
+#: template-parts/content-single.php:112
+msgid "About the author: "
+msgstr "À propos de l'auteur"
+
+#: footer.php:37 functions.php:555 functions.php:556
+msgid "About"
+msgstr "A propos"
+
+#: template-parts/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que ce que vous cherchez est introuvable. Essayez avec une recherche."
+
+#: template-parts/content-none.php:13
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#: template-parts/content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt(e) à publier votre premier article? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: template-parts/content-none.php:3
+msgid "Nothing Found"
+msgstr "Aucun Résultat"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: comments.php:23 comments.php:44
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:22 comments.php:43
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:19 comments.php:40
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: archive.php:79 author.php:89 front-page.php:95 home.php:77 index.php:73
+#: page-templates/blog-template.php:34 page-templates/sidebar-left.php:23
+#: page-templates/sidebar-right.php:41 search.php:68
+#: template-parts/content-search.php:66
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: archive.php:78 author.php:88 front-page.php:94 home.php:76 index.php:72
+#: page-templates/blog-template.php:33 page-templates/sidebar-left.php:22
+#: page-templates/sidebar-right.php:40 search.php:67
+#: template-parts/content-search.php:65
+msgid "Search"
+msgstr "Rechercher"
+
+#. Translators: tag list
+#: archive.php:60 author.php:70 front-page.php:72 home.php:55 index.php:51
+#: page-templates/sidebar-left.php:40 page-templates/sidebar-right.php:25
+#: page.php:15 search.php:46 template-parts/content-search.php:48
+#: template-parts/content-single.php:67 template-parts/content.php:44
+msgid "Pages:"
+msgstr "Pages :"
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a better search?"
+msgstr "Il semble que rien ne soit trouvé à cet emplacement. Essayez les liens ci-dessous ou une recherche"
+
+#: author.php:16
+msgid "Written by: "
+msgstr "Rédigé par&nbsp;:"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups&nbsp;! Cette page est introuvable."
+
+#. Theme URI of the plugin/theme
+msgid "http://www.machothemes.com/themes/pixova-lite/"
+msgstr "http://www.machothemes.com/themes/pixova-lite/"
+
+#. Author URI of the plugin/theme
+msgid "http://www.machothemes.com/"
+msgstr "http://www.machothemes.com/"
